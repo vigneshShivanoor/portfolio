@@ -8,4 +8,5 @@ export default defineConfig({
       overlay: false, // Disable Vite's error overlay if it's causing issues
     },
   },
+  base: '/portfolio/',
 });
